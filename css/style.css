@@ -1,0 +1,128 @@
+body{
+  font-family: Arial;
+  font-size:18px;
+  line-height:1;
+  padding:0;
+  margin:0;
+  background-color: #EAECEE;
+}
+.container{
+width:60%;
+margin:auto;
+}
+
+
+header{
+  background:#21618C;
+  color:#ffffff;
+  margin-top:0px;
+  padding-top:24px;
+  min-height:70px;
+  border-bottom:#1ABC9C 10px solid;
+}
+
+header a{
+color:#ffffff;
+text-decoration:none;
+font-size:14px;
+
+}
+header ul{
+  margin:0;
+  padding:0;
+
+}
+header li{
+  float:left;
+  display:inline;
+  padding:0 15px 0 15px;
+
+}
+
+header #top {
+  float:left;
+}
+header #top h1{
+  margin:0;
+}
+header nav{
+  float:right;
+  margin-top:20px;
+}
+header a:hover{
+  color:#ffffff;
+  font-weight:bold;
+}
+
+#mainpic{
+  min-height: 200px;
+  background:url('../pngs/logo.jpg') no-repeat;
+  width:100%;
+  color: #ffffff;
+  text-align:center;
+}
+
+#bottom .pic{
+  float:left;
+  text-align:center;
+  width:30%;
+  padding:0px;
+}
+#bottom{
+  margin-top:40px;
+}
+footer{
+  padding:20px;
+  margin-top:20px;
+  text-align: center;
+}
+
+a{
+  background-color:white;
+}
+
+a:link{
+  color: blue;
+}
+a:visited {
+  color:purple;
+}
+a:hover{
+  background:yellow;
+}
+a:active{
+  color:red;
+}
+table {
+    border-collapse: collapse;
+    text-align:center;
+
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding:2px;
+}
+footer{
+  padding:4px;
+  margin-top:10px;
+  color:#ffffff;
+  background-color:#2874A6;
+
+}
+#data{
+  font-family: Georgia;
+
+}
+h1 {
+text-shadow: 2px 2px blue;
+letter-spacing: .5px;
+}
+
+h2 {
+text-shadow: 2px 3px violet;
+}
+p {
+
+
+}
